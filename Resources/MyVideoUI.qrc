@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Resources">
+    <file>pause1.png</file>
+    <file>play1.png</file>
+  </qresource>
+</RCC>
