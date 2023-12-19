@@ -3,7 +3,7 @@
 ```
 Introduction:
 
-This is a homemade video editor developed using C++. It allows users to perform basic operations on videos, such as cutting, merging, adjusting video effects, and more.
+This is a video editor developed using C++. It allows users to perform basic operations on videos, such as cutting, merging, adjusting video effects, and more.
 ```
 
 Prerequisites:
@@ -16,7 +16,7 @@ Build and Run
 Clone the repository:
 
 ```
-'git clone https://github.com/jerlew96/MyVideoEditor.git'
+git clone https://github.com/jerlew96/MyVideoEditor.git
 ```
 
 Install the necessary libraries:
