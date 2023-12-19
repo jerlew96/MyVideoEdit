@@ -1,7 +1,8 @@
 # MyVideoEditor
 
-```
 Introduction:
+
+```
 
 This is a video editor developed using C++ basic on Image processing.
 It allows users to perform basic operations on videos, such as cutting, merging, adjusting video effects, and more.
