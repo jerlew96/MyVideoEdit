@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [repository link]
+git clone https://github.com/jerlew96/MyVideoEditor.git
 Install the necessary libraries:
 
 Follow the official documentation for installing OpenCV and Qt6.
